@@ -1,0 +1,11 @@
+C:\Users\TATo\Documents\Visual Studio 2017\Projects\DockerTest\DockerTest\bin\Debug\netcoreapp2.0\DockerTest.deps.json
+C:\Users\TATo\Documents\Visual Studio 2017\Projects\DockerTest\DockerTest\bin\Debug\netcoreapp2.0\DockerTest.runtimeconfig.json
+C:\Users\TATo\Documents\Visual Studio 2017\Projects\DockerTest\DockerTest\bin\Debug\netcoreapp2.0\DockerTest.runtimeconfig.dev.json
+C:\Users\TATo\Documents\Visual Studio 2017\Projects\DockerTest\DockerTest\bin\Debug\netcoreapp2.0\DockerTest.dll
+C:\Users\TATo\Documents\Visual Studio 2017\Projects\DockerTest\DockerTest\bin\Debug\netcoreapp2.0\DockerTest.pdb
+C:\Users\TATo\Documents\Visual Studio 2017\Projects\DockerTest\DockerTest\obj\Debug\netcoreapp2.0\DockerTest.csprojResolveAssemblyReference.cache
+C:\Users\TATo\Documents\Visual Studio 2017\Projects\DockerTest\DockerTest\obj\Debug\netcoreapp2.0\DockerTest.csproj.CoreCompileInputs.cache
+C:\Users\TATo\Documents\Visual Studio 2017\Projects\DockerTest\DockerTest\obj\Debug\netcoreapp2.0\DockerTest.AssemblyInfoInputs.cache
+C:\Users\TATo\Documents\Visual Studio 2017\Projects\DockerTest\DockerTest\obj\Debug\netcoreapp2.0\DockerTest.AssemblyInfo.cs
+C:\Users\TATo\Documents\Visual Studio 2017\Projects\DockerTest\DockerTest\obj\Debug\netcoreapp2.0\DockerTest.dll
+C:\Users\TATo\Documents\Visual Studio 2017\Projects\DockerTest\DockerTest\obj\Debug\netcoreapp2.0\DockerTest.pdb
